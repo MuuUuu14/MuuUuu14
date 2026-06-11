@@ -23,11 +23,17 @@
 - **核心收获**：多分类场景下需要逐类别分析精确率和召回率，而不是只看总准确率
 
 ## 技能
-- 数据处理：Python、Pandas、文本清洗
-- 特征工程：CountVectorizer、TF-IDF、Word2Vec（了解）
-- 模型：朴素贝叶斯、逻辑回归
-- 评估：准确率、精确率、召回率、混淆矩阵、分类报告
-- 其他：Prompt Engineering、数据标注规范制定
+
+| 类别 | 技能 |
+|:---|:---|
+| 编程语言 | Python |
+| 数据处理 | Pandas、文本清洗、正则表达式 |
+| 特征工程 | CountVectorizer、TF-IDF、Word2Vec（了解） |
+| 机器学习模型 | 朴素贝叶斯、逻辑回归 |
+| 模型评估 | 准确率、精确率、召回率、混淆矩阵、分类报告 |
+| 模型部署基础 | joblib 模型保存与加载 |
+| AI训练相关 | Prompt Engineering、数据标注规范制定、Bad Case分析 |
+| 工具 | Google Colab、Jupyter Notebook、VS Code、Git |
 
 ## 联系方式
 - GitHub：本仓库
