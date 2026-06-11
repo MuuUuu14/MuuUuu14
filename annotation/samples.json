@@ -1,0 +1,22 @@
+[
+  {"review": "这部电影太棒了，演技炸裂", "label": 1},
+  {"review": "剧情无聊透顶，浪费时间", "label": 0},
+  {"review": "看得我热泪盈眶", "label": 1},
+  {"review": "烂片一部", "label": 0},
+  {"review": "睡着了三次", "label": 0},
+  {"review": "千万别看", "label": 0},
+  {"review": "千万别错过", "label": 1},
+  {"review": "笑着笑着就哭了", "label": 1},
+  {"review": "中途离场了", "label": 0},
+  {"review": "被片名耽误的好片", "label": 1},
+  {"review": "特效还不如十年前", "label": 0},
+  {"review": "除了海报一无是处", "label": 0},
+  {"review": "导演你睡得着吗", "label": 0},
+  {"review": "一分给配乐，其他零分", "label": 0},
+  {"review": "看完心情极差", "label": 0},
+  {"review": "笑中带泪，难得的好片", "label": 1},
+  {"review": "今年最好的电影", "label": 1},
+  {"review": "剧情抄袭明显", "label": 0},
+  {"review": "强烈推荐，太好看了", "label": 1},
+  {"review": "全片尿点", "label": 0}
+]
